@@ -4,7 +4,7 @@ public class Conversor {
 
 	public static void main(String[] args) {
 		// Conversor de unidades: Desarrolla un programa que convierta unidades de medida, como metros millas.
-		// El usuario debe ingresar el valor y la unidad de entrada, y el programa debe realizar la conversión.
+		// El usuario debe ingresar el valor, y el programa debe realizar la conversión.
 		
 		
 		Scanner leer = new Scanner(System.in);
