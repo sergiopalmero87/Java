@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="AreaTriangulo/src"/>
+	<classpathentry kind="src" path="Calculadora_basica/src"/>
+	<classpathentry kind="src" path="Control_flujo_basico/src"/>
+	<classpathentry kind="src" path="FIZZ_BUZZ/src"/>
+	<classpathentry kind="src" path="Num_Pares_Impares/src"/>
+	<classpathentry kind="src" path="NumPrimo/src"/>
+	<classpathentry kind="src" path="SumarNumerosUsuario/src"/>
+	<classpathentry kind="src" path="TablaMultiplicar/src"/>
+	<classpathentry kind="src" path="Ternarias/src"/>
+	<classpathentry kind="output" path="AreaTriangulo/bin"/>
+</classpath>
